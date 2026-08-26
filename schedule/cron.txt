@@ -1,0 +1,8 @@
+# Bellhaven daily ownership reconciliation
+# Run every day at 7:00 AM.
+#
+# The scheduled pipeline is read/analyze only.
+# It does NOT write changes to CRM.
+# CRM changes require human approval through the review app.
+
+0 7 * * * cd /path/to/bellhaven-crm-assessment && /path/to/python src/run_pipeline.py >> logs/daily_pipeline.log 2>&1
