@@ -47,7 +47,7 @@ Approved Changes Only
 ```
 
 ## Project Flow:
-<img width="800" height="1000" src="https://github.com/Nishi-W10/bellhaven-crm-assessment/blob/main/diagram%20(2).png" />
+<img width="900" height="1000" src="https://github.com/Nishi-W10/bellhaven-crm-assessment/blob/main/diagram%20(2).png" />
 
 
 ## Main Components
