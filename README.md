@@ -46,6 +46,10 @@ Approved Changes Only
   Corrected CRM
 ```
 
+## Project Flow:
+<img width="800" height="1000" src="https://github.com/Nishi-W10/Amazon-Product-Review-Performance-and-Sentiment-Intelligence/blob/main/diagram.png" />
+
+
 ## Main Components
 
 The project is divided into small components so each part of the reconciliation process is easy to understand, test, and maintain.
